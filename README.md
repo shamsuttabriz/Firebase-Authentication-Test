@@ -4,9 +4,6 @@ A simple React application demonstrating Firebase Authentication using Vite. Thi
 
 ---
 
-
----
-
 ## 🚀 Features
 
 - Firebase Authentication (Email/Password)
